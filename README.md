@@ -7,7 +7,7 @@ An AI-powered early warning tool that predicts weekly cholera outbreak levels in
 
 **Previous version:** [View previous repository](https://github.com/Ukayria/cholera-outbreak-predictor)
 
-**Live application:** [Try the web app](https://cholera-outbreak-predictor-v2.onrender.com/predict)
+**Live application:** [Try the web app](https://cholera-outbreak-predictor-v2.onrender.com/)
 
 ## Project Overview
 
