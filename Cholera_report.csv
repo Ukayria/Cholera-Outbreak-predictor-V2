@@ -1,0 +1,340 @@
+Year,EPi_Week,Suspected_Cases,Confirmed_Cases,Deaths,States_Affected
+2020,1,33,0,2,"Bayelsa, Kebbi"
+2020,2,19,0,4,"Bayelsa, Kebbi, Ebonyi"
+2020,3,20,0,0,"Bayelsa, Kebbi, Ogun"
+2020,4,74,0,4,"Bayelsa, Kebbi, Ebonyi"
+2020,5,198,0,9,Ebonyi
+2020,6,257,0,4,Ebonyi
+2020,7,0,0,0,No state affected
+2020,8,1,0,0,Anambra
+2020,9,0,0,0,No state affected
+2020,10,0,0,0,No state affected
+2020,11,7,0,0,Abia
+2020,12,0,0,0,No state affected
+2020,13,6,0,0,"Kano, Katsina, Kogi"
+2020,14,7,0,0,Katsina
+2020,15,0,0,0,No state affected
+2020,16,0,0,0,No state affected
+2020,17,97,0,14,"Ebonyi, Taraba"
+2020,18,0,0,0,No state affected
+2020,19,1,0,0,Kebbi
+2020,20,0,0,0,No state affected
+2020,21,1,0,0,Kaduna
+2020,22,0,0,0,No state affected
+2020,23,0,0,0,No state affected
+2020,24,0,0,0,No state affected
+2020,25,0,0,0,No state affected
+2020,26,9,0,0,"Bauchi, Borno"
+2020,27,0,0,0,No state affected
+2020,28,0,0,0,No state affected
+2020,29,0,0,0,No state affected
+2020,30,0,0,0,No state affected
+2020,31,0,0,0,No state affected
+2020,32,0,0,0,No state affected
+2020,33,0,0,0,No state affected
+2020,34,0,0,0,No state affected
+2020,35,0,0,0,No state affected
+2020,36,0,0,0,No state affected
+2020,37,0,0,0,No state affected
+2020,38,0,0,0,No state affected
+2020,39,0,0,0,No state affected
+2020,40,0,0,0,No state affected
+2020,41,0,0,0,No state affected
+2020,42,0,0,0,No state affected
+2020,43,0,0,0,No state affected
+2020,44,0,0,0,No state affected
+2020,45,0,0,0,No state affected
+2020,46,0,0,0,No state affected
+2020,47,0,0,0,No state affected
+2020,48,0,0,0,No state affected
+2020,49,0,0,0,No state affected
+2020,50,0,0,0,No state affected
+2020,51,0,0,0,No state affected
+2020,52,0,0,0,No state affected
+2021,1,0,0,0,NAN
+2021,2,0,0,0,NAN
+2021,3,11,0,0,"Adamawa, Nasarawa"
+2021,4,2,0,0,"Cross River, Nasarawa"
+2021,5,87,1,5,"Bayelsa, kaduna, Kogi"
+2021,6,12,0,0,"Delta, Kaduna, Kano"
+2021,7,38,0,0,"Bauchi, Kogi"
+2021,8,4,0,0,"Bauchi, Delta"
+2021,9,29,0,0,Benue
+2021,10,11,0,0,Oyo
+2021,11,71,0,7,"Bayelsa, Kebbi"
+2021,12,19,1,0,"Bayelsa, Kogi"
+2021,13,151,0,9,Bayelsa
+2021,14,431,4,13,"Bayelsa, Kano, Kebbi, Nasarawa"
+2021,15,166,0,11,"Bayelsa, Kano,"
+2021,16,235,0,13,"Bauchi, Bayelsa, Kaduna, Kano, Zamfara"
+2021,17,264,1,13,"Bayelsa, Kaduna, Kano, Kogi"
+2021,18,34,0,6,"Kaduna, Nasarawa"
+2021,19,86,5,6,"Bauchi, Bayelsa, Delta "
+2021,20,212,0,1,"Bauchi, Bayelsa, Delta, Kano, Kebbi"
+2021,21,616,30,18,"Bauchi, Kano, Kwara, Plateau"
+2021,22,204,0,2,"kano, Kwara, Plateau"
+2021,23,376,3,4,"Kano, Kwara, Plateu, Yobe "
+2021,24,2008,149,15,"Bauchi, Bayelsa, FCT, Kano, Plateau"
+2021,25,939,1,18,"Ebonyi, FCT, Kano,  Kebbi, Plateau"
+2021,26,NAN,NAN,NAN,NAN
+2021,27,2559,5,30,"Adamawa, Bauchi, Bayelsea , Ebonyi, Kano, KebbiI, Kogi, Plateau, Taraba"
+2021,28,534,15,18,"Bauchi, Borno, Enugu, FCT, Kaduna, Kebbi,  Kogi, Kwara, Plateau "
+2021,29,1554,0,20,"Bauchi, FCT, Kaduna, Kano, Kebbi, Plateau"
+2021,30,1699,3,86,"Adamawa, Bauchi, Borno, Niger, Katsina, FCT, Jigawa, Kano, "
+2021,31,2156,0,101,"Adamawa, Kano, Kogi, Kebbi, Katsina, Jigawa, Niger, Sokoto, Yobe, Zamfara"
+2021,32,4545,1,74,"Adamawa, Borno, FCT,  Kano, Kogi, Kebbi, Katsina, Jigawa, Niger, Plateau, Nassarawa, Sokoto, Yobe, Zamfara"
+2021,33,2910,3,94,"Adamawa, Bauchi, Borno, Kano, Katsina, Kebbi, Jigawa, Niger, Sokoto, Yobe, Nassarawa"
+2021,34,NAN,NAN,NAN,NAN
+2021,35,NAN,NAN,NAN,NAN
+2021,36,NAN,NAN,NAN,NAN
+2021,37,NAN,NAN,NAN,NAN
+2021,38,NAN,NAN,NAN,NAN
+2021,39,NAN,NAN,NAN,NAN
+2021,40,NAN,NAN,NAN,NAN
+2021,41,NAN,NAN,NAN,NAN
+2021,42,NAN,NAN,NAN,NAN
+2021,43,NAN,NAN,NAN,NAN
+2021,44,NAN,NAN,NAN,NAN
+2021,45,477,5,14,"Borno, Taraba, Nasarawa, Kebbi, Katsina, Adamawa, Bauchi, Enugu, Abia"
+2021,46,352,0,4,"Adamawa, Borno, Kebbi, Katsina, Benue, Enugu, Lagos"
+2021,47,NAN,NAN,NAN,NAN
+2021,48,233,0,3,"Bauchi, Kebbi, Nasarawa, Ogun, Bayelsa, Taraba, Ebonyi"
+2021,49,NAN,NAN,NAN,NAN
+2021,50,NAN,NAN,NAN,NAN
+2021,51,NAN,NAN,NAN,NAN
+2021,52,NAN,NAN,NAN,NAN
+2022,1,NAN,NAN,NAN,NAN
+2022,2,NAN,NAN,NAN,NAN
+2022,3,NAN,NAN,NAN,NAN
+2022,4,NAN,NAN,NAN,NAN
+2022,5,NAN,NAN,NAN,NAN
+2022,6,NAN,NAN,NAN,NAN
+2022,7,NAN,NAN,NAN,NAN
+2022,8,NAN,NAN,NAN,NAN
+2022,9,NAN,NAN,NAN,NAN
+2022,10,NAN,NAN,NAN,NAN
+2022,11,NAN,NAN,NAN,NAN
+2022,12,NAN,NAN,NAN,NAN
+2022,13,NAN,NAN,NAN,NAN
+2022,14,NAN,NAN,NAN,NAN
+2022,15,NAN,NAN,NAN,NAN
+2022,16,NAN,NAN,NAN,NAN
+2022,17,NAN,NAN,NAN,NAN
+2022,18,38,0,1,"Katsina, Kebbi, Kano, Bauchi, Adamawa"
+2022,19,120,0,0,"Cross River, Kano, Katsina"
+2022,20,93,7,0,"Ondo, Katsina, Kano, Bauchi, Plateau, Abia, Osun"
+2022,21,55,2,0,"Abia, Zamfara, Katsina, Kaduna, Bauchi, Plateau, Taraba, Imo"
+2022,22,60,185,0,"Abia, Cross River, Bauchi, Katsina, Nasarawa, Plateau"
+2022,23,76,0,1,"Bauchi, Katsina, Kano,Taraba, Benue"
+2022,24,81,0,1,"Katsina, Bauchi, Kano, Nasarawa, Plateau, Taraba, Abia"
+2022,25,39,1,0,"Bauchi, Katsina, Bauchi, Kano,Taraba"
+2022,26,54,0,0,"Zamfara, Bauchi, Plateau, Nasarawa, Katsina"
+2022,27,53,0,1,"Bayelsa, Taraba, Plateau, Zamfara, Kebbi, Bauchi"
+2022,28,201,0,2,"Bauchi, Zamfara, Kano, Plateau, Katsina, Borno, Abia"
+2022,29,1554,0,20,"Abia, Borno, Taraba, Plateau, Bauchi, Kano, Katsina, Sokoto "
+2022,30,301,18,6,"Borno, Katsina, Taraba, Yobe, Kaduna, Bauchi, Zamfara, kano"
+2022,31,220,4,7,"Zamfara, Kaduna, Borno, Yobe, Taraba, Abia, Bauchi, Katsina, Kano"
+2022,32,250,7,2,"Bauchi, Kaduna, Cross River, Katsina, Yobe, Zamfara, Osun"
+2022,33,NAN,NAN,NAN,NAN
+2022,34,NAN,NAN,NAN,NAN
+2022,35,NAN,NAN,NAN,NAN
+2022,36,NAN,NAN,NAN,NAN
+2022,37,NAN,NAN,NAN,NAN
+2022,38,NAN,NAN,NAN,NAN
+2022,39,NAN,NAN,NAN,NAN
+2022,40,NAN,NAN,NAN,NAN
+2022,41,NAN,NAN,NAN,NAN
+2022,42,NAN,NAN,NAN,NAN
+2022,43,NAN,NAN,NAN,NAN
+2022,44,NAN,NAN,NAN,NAN
+2022,45,NAN,NAN,NAN,NAN
+2022,46,NAN,NAN,NAN,NAN
+2022,47,NAN,NAN,NAN,NAN
+2022,48,NAN,NAN,NAN,NAN
+2022,49,NAN,NAN,NAN,NAN
+2022,50,NAN,NAN,NAN,NAN
+2022,51,NAN,NAN,NAN,NAN
+2022,52,NAN,NAN,NAN,NAN
+2023,1,NAN,NAN,NAN,NAN
+2023,2,NAN,NAN,NAN,NAN
+2023,3,NAN,NAN,NAN,NAN
+2023,4,NAN,NAN,NAN,NAN
+2023,5,NAN,NAN,NAN,NAN
+2023,6,NAN,NAN,NAN,NAN
+2023,7,NAN,NAN,NAN,NAN
+2023,8,NAN,NAN,NAN,NAN
+2023,9,NAN,NAN,NAN,NAN
+2023,10,NAN,NAN,NAN,NAN
+2023,11,NAN,NAN,NAN,NAN
+2023,12,NAN,NAN,NAN,NAN
+2023,13,NAN,NAN,NAN,NAN
+2023,14,NAN,NAN,NAN,NAN
+2023,15,NAN,NAN,NAN,NAN
+2023,16,NAN,NAN,NAN,NAN
+2023,17,NAN,NAN,NAN,NAN
+2023,18,NAN,NAN,NAN,NAN
+2023,19,NAN,NAN,NAN,NAN
+2023,20,NAN,NAN,NAN,NAN
+2023,21,NAN,NAN,NAN,NAN
+2023,22,NAN,NAN,NAN,NAN
+2023,23,NAN,NAN,NAN,NAN
+2023,24,NAN,NAN,NAN,NAN
+2023,25,NAN,NAN,NAN,NAN
+2023,26,NAN,NAN,NAN,NAN
+2023,27,35,1,1,"Borno, Adamawa, Kano, Jigawa, Ebonyi, Katsina, Yobe"
+2023,28,38,6,3,"Borno, Bauchi, Kano, Katsina, Bayelsa, Cross River, and Ebonyi"
+2023,29,10,1,3,Borno
+2023,30,4,0,0,"Niger, Adamawa"
+2023,31,11,0,0,"Zamfara, Kano, Gombe"
+2023,32,3,0,1,"Kano, Borno"
+2023,33,1,0,0,Adamawa
+2023,34,NAN,NAN,NAN,NAN
+2023,35,76,3,4,"Zamfara, Niger, Bauchi, Oyo"
+2023,36,71,4,1,"Zamfara, Niger, Adamawa"
+2023,37,43,4,1,"Zamfara, Jigawa, Oyo, Ogun,  Bayelsa"
+2023,38,27,0,1,"Adamawa, Ogun"
+2023,39,0,0,0,No state affected
+2023,40,6,0,0,"Borno, Adamawa, Ogun, Oyo"
+2023,41,5,0,0,"Ogun, Oyo"
+2023,42,19,0,0,"Ogun, Osun, Bayelsa, Gombe, Adamawa"
+2023,43,19,1,0,"Gombe, Adamawa, Ogun, Osun, bayelsa"
+2023,44,7,1,0,"Ogun, Adamawa, Bayelsa"
+2023,45,5,1,1,"Kano, Adamawa, Osun, Delta"
+2023,46,55,0,4,"Oyo, Delta, Katsina, Kebbi, Niger"
+2023,47,36,1,8,"Ogun, Delta, Bayelsa, Kebbi, Niger, Katsina, Kano"
+2023,48,8,0,2,"Kano, Adamawa, Osun, Delta"
+2023,49,7,0,1,"Ogun, Oyo"
+2023,50,NAN,NAN,NAN,NAN
+2023,51,NAN,NAN,NAN,NAN
+2023,52,NAN,NAN,NAN,NAN
+2024,1,91,0,1,"Kano, Cross River, Benue, Bayelsa, Delta"
+2024,2,86,0,1,"Kano, Bayelsa, Delta, Cross River, Benue"
+2024,3,80,0,1,"Kebbi, Zamfara, Katsina, Kano, bayelsa, Delta, Ekiti, Imo, Abia, Cross River"
+2024,4,78,1,1,"Zamfara, Katsina, Kano, Niger, Osun, Ondo, Bayelsa, Imo, Abia, Cross River"
+2024,5,79,0,,"Zamfara, Bauchi, Niger, Cross River, Benue, Ebonyi, Bayelsa, Rivers, Imo, Osun, Ondo"
+2024,6,74,0,2,"Osun, ondo, Delta, Bayelsa, Edo, Zamfara, Katsina, Gombe"
+2024,7,114,0,4,"Zamfara, Katsina, Kano, Bauchi, Gombe, Ogun, Osun, Ekiti, Bayelsa, Rivers, Akwa Ibom, Delta, Imo, Ebonyi"
+2024,8,87,0,3,"Ogun, Osun, Ondo, Zamfara, Bauchi, Nassarawa, Rivers, Imo, Abia, Ebonyi"
+2024,9,93,1,3,"Niger, Zamfara, Katsina, Jigawa, Borno, Osun, Ondo, Bayelsa, Delta, Rivers, Imo, Abia, Ebonyi"
+2024,10,54,0,0,"Bayelsa, Imo, Anambra, Osun, Ekiti, Ondo, Zamfara, Bayelsa, Anambra, "
+2024,11,31,1,1,"Zamfara, Bauchi, Osun, Ondo, Delta, Bayelsa, Rivers, Imo, Akwa Ibom, Ebonyi"
+2024,12,112,0,1,"Katsina, Kano, Niger, Osun, Delta, Bayelsa, Imo, Abia, Ebonyi"
+2024,13,24,0,0,"Katsina, Niger, Delta, Bayelsa, Imo, Abia, Akwa ibom, Ebonyi"
+2024,14,15,0,0,"Niger, Delta, Imo, Abia, Akwa Ibom, Ebonyi"
+2024,15,25,0,1,"Zamfara, Katsina, Bayelsa, Imo, Abia, Ebonyi"
+2024,16,66,0,2,"Zamfara, Katsina, Delta, Bayelsa, Imo, Abia, Ebonyi, Taraba"
+2024,17,44,0,0,"Zamfara, Katsina, Kano, Ondo, Osun, Bayelsa, Akwa Ibom, Imo, Ebonyi, Abia"
+2024,18,24,0,1,"Zamfara, Katsina, Kano, Bauchi,  Adamawa, Bayelsa, Abia, Akwa Ibom,Ebonyi"
+2024,19,10,0,0,"Katsina, Bauchi, Kwara, Osun, Ondo, Bayelsa, Abia"
+2024,20,26,0,0,"Sokoto, Katsina, Osun, FCT, Bayelsa, Imo, Abia, Ebonyi"
+2024,21,49,0,0,"Zamfara, Katsina, Niger, Bauchi, Osun, Ekiti, Lagos, Bayelsa, Imo, Abia, Ebonyi,"
+2024,22,25,0,1,"Sokoto, Katsina, Osun, FCT, Bayelsa, Imo, Abia, Ebonyi"
+2024,23,241,6,0,"Sokoto, Katsina, Bayelsa, Imo, Abia, Ebonyi, Bauchi, Ogun, Lagos, Rivers"
+2024,24,709,27,35,"Katsina, Bauchi, Oyo, Lagos, Ogun, Osun, Ondo, Kogi, Bayelsa, Rivers, Imo, Abia, Ebonyi, "
+2024,25,713,8,26,"Katsina, Jigawa, Bauchi, Gombe, Borno, FCT, Benue, Kogi, Ekiti, ondo, Osun, Ogun, Lagos, Oyo, Bayelsa, Rivers, Imo, Abia, Ebonyi, Kaduna, Akwa Ibom"
+2024,26,NAN,NAN,NAN,NAN
+2024,27,NAN,NAN,NAN,NAN
+2024,28,NAN,NAN,NAN,NAN
+2024,29,NAN,NAN,NAN,NAN
+2024,30,NAN,NAN,NAN,NAN
+2024,31,NAN,NAN,NAN,NAN
+2024,32,NAN,NAN,NAN,NAN
+2024,33,NAN,NAN,NAN,NAN
+2024,34,NAN,NAN,NAN,NAN
+2024,35,NAN,NAN,NAN,NAN
+2024,36,721,11,30,"Sokoto, Zamfara, Katsina, Jigawa, Kano, Yobe, Bauchi, Borno, Kaduna, Nassarawa, Kogi, Edo, Oyo, Ogun, Lagos, "
+2024,37,1128,68,73,"Kebbi, Zamfara, Katsina, Kano, Sokoto, Kaduna, Niger, Bauchi, Jigawa, Yobe, Borno, Adamawa, Oyo, Ogun, Lagos, Bayelsa, Imo, Ebonyi, Akwa Ibom"
+2024,38,1323,39,51,"Kebbi, Zamfara, Katsina, Kano, Sokoto, Kaduna, Niger, Bauchi, Jigawa, Yobe, Borno, Adamawa, Oyo, Ogun, Lagos, Imo, Ebonyi, Akwa Ibom, Kogi, FCT"
+2024,39,1452,42,73,"Kebbi, Sokoto, Katsina, Kaduna, Kano, Jigawa, Bauchi, Borno, Adamawa, Oyo, Ogun, Edo, Bayelsa, Akwa Ibom, Ebonyi, Benue "
+2024,40,877,12,29,"Kebbi, Sokoto, Katsina, Kaduna, Kano, Jigawa, Bauchi, Borno, Adamawa, Oyo, Edo, Bayelsa, Ebonyi, Benue, Nassarawa, FCT"
+2024,41,1108,21,20,"Kebbi, Sokoto, Katsina, Kaduna, Jigawa, Bauchi, Borno, Adamawa, Oyo, Enugu, Bayelsa, Ebonyi, Benue, Nassarawa, FCT, Plateau"
+2024,42,852,18,35,"Kebbi, Sokoto, Kaduna, Plateau, Borno, Adamawa, FCT, Benue, Enugu, Ebonyi, Oyo, Bayelsa"
+2024,43,764,5,24,"Sokoto, Kebbi, Niger, Kaduna,  Kano, Katsina, Jigawa, Bauchi, Yobe, Borno, Adamawa, Plateau, Enugu, Ebonyi, Bayelsa, Ondo, Oyo"
+2024,44,448,14,26,"Kebbi, Sokoto, Niger, Katsina, kaduna, Kano, Bauchi, Yobe, Borno, Plateau, Taraba, Benue, Nassarawa, Oyo, Enugu, Ebonyi, Bayelsa, Oyo"
+2024,45,351,14,9,"Kebbi, Sokoto, Kaduna, Plateau, Taraba, Benue, Bayelsa, Akwa Ibom, Oyo"
+2024,46,777,1,13,"Sokoto, Jigawa, Nassarawa, Bayelsa"
+2024,47,532,0,8,"Sokoto, kano, Kaduna, Plateau, Gombe, Borno, Adamawa, Oyo, Bayelsa, "
+2024,48,397,1,3,"Kebbi, Sokoto, Katsina, Kaduna, Kano, Jigawa, Plateau, Gombe, Borno, Adamawa, Kwara, Oyo, Ogun,"
+2024,49,78,0,1,"Sokoto, Kano, Jigawa, Yobe, Borno, Gombe, Oyo"
+2024,50,19,0,1,"Sokoto, Katsina, Jigawa, Taraba, Gombe, Borno, Delta, Bayelsa, Rivers"
+2024,51,68,0,7,"Sokoto, Gombe, Nassarawa, Benue, Ondo, Bayelsa, Rivers, Abia"
+2024,52,65,1,3,"Kebbi, Kano, Bayelsa, Rivers, Akwa Ibom, Gombe"
+2025,1,17,1,2,"Niger, Oyo, Osun, Ondo,, Rivers, Gombe"
+2025,2,41,0,0,"Kebbi, Katsina, Jigawa, Bauchi, Borno, Taraba, Plateau, Nassarawa, Kogi, Enugu, Anambra, Abia, Akwa ibom, Cross River, Benue, Ogun, Lagos, Ondo, "
+2025,3,69,2,4,"Kebbi, Sokoto, Niger, Bauchi, Yobe, Borno, Adamawa, Osun, Ekiti, Delta, Bayelsa, Rivers, Akwa Ibom, Abia"
+2025,4,27,0,2,"Niger, Bauchi, Imo, Abia, Akwa Ibom, Ekiti"
+2025,5,140,2,0,"Oyo, Lagos, Benue, Enugu, Imo, Abia, Akwa Ibom, Rivers, Bayelsa, Delta"
+2025,6,72,0,3,"Bauchi, Osun, Ekiti, Benue, Imo, Abia, Delta, Bayelsa, Rivers"
+2025,7,53,3,5,"Kebbi, Nassarawa, Kogi, Taraba, Delta, Bayelsa, Rivers, Akwa Ibom, Imo, Abia"
+2025,8,18,0,4,"Bauchi, Borno, Delta, Rivers"
+2025,9,5,3,0,"Bauchi, Adamawa, Osun"
+2025,10,21,2,0,"Kebbi, Katsina, Adamawa, Ondo, Lagos"
+2025,11,21,2,0,"Niger, Gombe, Adamawa, Lagos"
+2025,12,19,0,0,"Gombe, Adamawa, Lagos, Ekiti, Kogi,"
+2025,13,2,0,0,"Lagos, Bayelsa"
+2025,14,50,1,1,"Kaduna, Adamawa, Ekiti, Kogi, Benue, Cross River, Lagos"
+2025,15,50,1,1,"katsina, Kaduna, Benue, Adamawa"
+2025,16,52,0,2,"Gombe, Benue, Ogun, Lagos, Delta, Ebonyi"
+2025,17,31,1,1,"Bauchi, Adamawa, Benue, Ebonyi, Lagos, "
+2025,18,35,2,1,"Zamfara, Gombe, Plateau, Adamawa, Ebonyi, FCT, Lagos"
+2025,19,62,1,5,"Katsina, Bauchi, Plateau, Adamawa, Ogun, Ondo, Lagos, Enugu, Ebonyi"
+2025,20,65,0,1,"Katsina, Bauchi, Plateau, Adamawa, Ogun, Ondo, Lagos, Enugu, Ebonyi, Imo"
+2025,21,50,0,1,"Katsina, Bauchi, Plateau, Adamawa, Ogun, Ondo, Lagos, Enugu, Ebonyi, Imo, Abia."
+2025,22,26,0,0,"Katsina, Bauchi, Plateau, Adamawa, Lagos"
+2025,23,11,0,0,"Bauchi, FCT, Edo, Lagos, Cross River"
+2025,24,1,0,0,Akwa Ibom
+2025,25,306,2,9,"Zamfara, Katsina, Niger, Kaduna, Bauchi, Plateau, Enugu, Imo, Lagos"
+2025,26,420,0,11,"Zamfara, Katsina, Niger, Kaduna, Bauchi, Plateau, Lagos, Sokoto, Adamawa, Ogun, Ondo, Anambra"
+2025,27,541,1,12,"Zamfara, Katsina, Niger, Kaduna, Bauchi, Plateau, Lagos, Sokoto, Adamawa, Ogun, Ondo, Yobe, Gombe"
+2025,28,538,0,8,"Zamfara, Katsina, Niger, Kaduna, Bauchi, Lagos, Sokoto, Adamawa, Yobe, Gombe, Oyo, Osun, Borno"
+2025,29,660,0,10,"Zamfara, Katsina, Niger, Bauchi, Lagos, Sokoto, Adamawa, Kebbi, Abia, Plateau, Nassarawa, Oyo"
+2025,30,702,0,12," Zamfara, Katsina, Niger, Kebbi, Sokoto, Jigawa, Bauchi, Nassarawa, Adamawa, Oyo, Ondo, Imo, Abia"
+2025,31,734,0,13,"Zamfara, Katsina, Niger, Sokoto, Bauchi, Plateau, Oyo, Lagos"
+2025,32,970,0,18,"Zamfara, Katsina, Niger, Sokoto, Bauchi, Plateau, Oyo"
+2025,33,519,0,19,"Zamfara, Katsina, Bauchi"
+2025,34,687,0,17," Zamfara, Katsina, Niger, Kebbi, Sokoto, Kano, Plateau, Adamawa, Ekiti"
+2025,35,459,7,2,"Zamfara, Katsina, Kebbi, Sokoto, Kano, Bauchi, Plateau, Adamawa, Ogun"
+2025,36,312,0,1,"Zamfara, Katsina, Kebbi, Sokoto, Niger, Nasarawa, Bauchi, Adamawa, Lagos"
+2025,37,303,0,9,"Zamfara, Katsina, Kebbi, Sokoto, Gombe"
+2025,38,0,0,0,No affected state
+2025,39,584,1,5,"Sokoto, Kebbi, Zamfara, Katsina, Plateau, Gombe, Oyo, Ekiti, Ondo, Lagos"
+2025,40,1137,2,0,"Sokoto, Niger, Zamfara, Katsina, Plateau, Gombe, Bauchi, Oyo, Osun, Ondo, Lagos"
+2025,41,690,0,18,"Sokoto, Niger, Zamfara, Gombe, Bauchi, Ebonyi, Abia, Ogun"
+2025,42,233,0,1,"Sokoto, Zamfara, Katsina, Niger, Bauchi, Jigawa, Gombe, Enugu"
+2025,43,246,0,8,"Sokoto, Zamfara, Bauchi, Gombe, Adamawa, Lagos, Abia"
+2025,44,125,2,8,"Sokoto, Zamfara, Niger, Bauchi, Gombe, Adamawa, Ondo, Rivers"
+2025,45,39,0,0,"Sokoto, Zamfara, Bauchi, Plateau, Ogun, Lagos, Enugu, Rivers"
+2025,46,94,0,0,"Sokoto, Zamfara, Katsina, Bauchi, Adamawa, Ogun"
+2025,47,101,0,0,"Gombe, Adamawa, Akwa Ibom, Lagos"
+2025,48,135,0,2,"Bauchi, Gombe, Adamawa, Niger, Osun, Rivers"
+2025,49,141,0,2,"Sokoto, Jigawa, Bauchi, Gombe, Adamawa, Abia"
+2025,50,125,1,0,"Sokoto, Katsina, Zamfara, Jigawa, Niger, Borno, Adamawa "
+2025,51,11,2,0,"Bauchi, Borno, Adamawa, Ekiti"
+2025,52,7,5,0,"Kebbi, Niger"
+2026,1,16,11,0,Borno
+2026,2,55,13,0,"Borno, Osun"
+2026,3,55,11,0,"Borno, Gombe"
+2026,4,5,0,0,Borno
+2026,5,9,1,0,"Borno, Ogun, Osun, Cross River"
+2026,6,9,3,0,"Sokoto, Gombe, FCT, Cross River"
+2026,7,2,0,0,"Osun, Imo"
+2026,8,8,0,0,"Bauchi, Gombe "
+2026,9,1,0,0,Osun
+2026,10,5,0,0,"Cross River, Delta, Lagos, Gombe"
+2026,11,4,0,0,"Ekiti, Lagos, Cross River"
+2026,12,5,0,0,"Yobe, Kaduna, Lagos, Ekiti"
+2026,13,43,1,0,"Zamfara, Katsina, Kano, Kaduna, Bauchi, Gombe, Adamawa, Kwara, Osun, Ekiti, Ebonyi, Anambra, Rivers, Lagos"
+2026,14,15,0,0,"Katsina, Kano, Kaduna, Bauchi, Borno, Kwara, Ogun, Lagos"
+2026,15,0,0,0,No state affected
+2026,16,2,0,0,"Bauchi, Ekiti"
+2026,17,11,1,0,"Ondo, Cross River"
+2026,18,15,7,1,"Kaduna, Borno, Ekiti, Cross River"
+2026,19,33,25,0,"Borno, Ekiti, Ondo"
+2026,20,58,3,0,"Cross River, Ekiti, Zamfara, Bauchi, Borno"
+2026,21,34,15,2,"Ogun, Ogun, Ekiti, Taraba, Abia, Rivers"
+2026,22,42,33,1,"Borno, Ekiti, FCT, Zamfara"
+2026,23,59,31,2,"Borno, Plateau, FCT, Kaduna"
+2026,24,273,243,6,"Bauchi, Borno, Imo, Plateau"
+2026,25,385,314,8,"Bauchi, Borno, Yobe, Zamfara"
+2026,26,158,142,17,"Borno, Kaduna, Ondo"
+2026,27,139,130,0,"Bauchi, Benue, Edo, Kogi, Ondo"

@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Cholera Outbreak Risk Predictor</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+    <main class="container">
+
+        <section class="header">
+            <h1>Cholera Outbreak Risk Predictor</h1>
+
+            <p>
+                Predict weekly cholera outbreak risk using
+                epidemiological and environmental data.
+            </p>
+        </section>
+
+        <section class="card">
+
+            <h2>Enter Weekly Data</h2>
+
+            <form method="POST" action="/predict">
+
+                <label for="epi_week">
+                    Epidemiological Week
+                </label>
+
+                <input
+                    type="number"
+                    id="epi_week"
+                    name="epi_week"
+                    min="1"
+                    max="52"
+                    required
+                >
+
+                <label for="suspected_cases">
+                    Suspected Cholera Cases
+                </label>
+
+                <input
+                    type="number"
+                    id="suspected_cases"
+                    name="suspected_cases"
+                    min="0"
+                    required
+                >
+
+                <label for="states_affected">
+                    Number of States Affected
+                </label>
+
+                <input
+                    type="number"
+                    id="states_affected"
+                    name="states_affected"
+                    min="0"
+                    max="37"
+                    required
+                >
+
+                <label for="weekly_rainfall">
+                    Weekly Rainfall (mm)
+                </label>
+
+                <input
+                    type="number"
+                    id="weekly_rainfall"
+                    name="weekly_rainfall"
+                    min="0"
+                    step="any"
+                    required
+                >
+
+                <label for="weekly_temperature">
+                    Average Weekly Temperature (°C)
+                </label>
+
+                <input
+                    type="number"
+                    id="weekly_temperature"
+                    name="weekly_temperature"
+                    step="any"
+                    required
+                >
+
+                <label for="rainfall_lag2">
+                    Rainfall 2 Weeks Ago (mm)
+                </label>
+
+                <input
+                    type="number"
+                    id="rainfall_lag2"
+                    name="rainfall_lag2"
+                    min="0"
+                    step="any"
+                    required
+                >
+
+                <label for="rainfall_lag4">
+                    Rainfall 4 Weeks Ago (mm)
+                </label>
+
+                <input
+                    type="number"
+                    id="rainfall_lag4"
+                    name="rainfall_lag4"
+                    min="0"
+                    step="any"
+                    required
+                >
+
+                <label for="temp_lag2">
+                    Temperature 2 Weeks Ago (°C)
+                </label>
+
+                <input
+                    type="number"
+                    id="temp_lag2"
+                    name="temp_lag2"
+                    step="any"
+                    required
+                >
+
+                <button type="submit">
+                    Predict Outbreak Risk
+                </button>
+
+            </form>
+
+            {% if prediction %}
+
+            <div class="result">
+
+                <h2>Prediction Result</h2>
+
+                <h3>{{ prediction.level }}</h3>
+
+                <p>{{ prediction.description }}</p>
+
+            </div>
+
+            {% endif %}
+
+            <div class="disclaimer">
+
+                <strong>Important:</strong>
+
+                This tool provides a model-based prediction for
+                research and decision-support purposes. It should not
+                be used as a substitute for official cholera
+                surveillance, investigation, or public health
+                decision-making.
+
+            </div>
+
+        </section>
+
+    </main>
+
+</body>
+</html>
